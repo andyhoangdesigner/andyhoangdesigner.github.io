@@ -1624,7 +1624,7 @@
   }
   @media (min-width: 48em) {
     .about-title {
-      width: 50%;
+      width: 60%;
       font-size: 4rem;
     }
   }
@@ -1632,7 +1632,7 @@
     .about-title {
       font-size: 4.688vw;
       text-indent: 4em;
-      width: 55%;
+      width: 58%;
       line-height: 0;
     }
   }
